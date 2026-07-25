@@ -58,6 +58,20 @@ sources:
 - Later, sprinkle `Teman Kacafilm.co.id`, `Sobat Kacafilm.co.id`, or `Kawan Kacafilm.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
 - Do not use a generic industry-history or “Di era digital” introduction.
 
+
+<!-- BEGIN MANAGED IMAGE PLAN -->
+## Image plan
+
+- **Image ID:** `EXT-001`
+- **Source type:** `wikimedia-commons`
+- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **Exact Markdown to insert:** `![Ilustrasi 1989 November Prague Velvet Revolution citizens reading news taped to restaurant window.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1989_November_Prague_Velvet_Revolution_citizens_reading_news_taped_to_restaurant_window.jpg/1920px-1989_November_Prague_Velvet_Revolution_citizens_reading_news_taped_to_restaurant_window.jpg)`
+- **Caption/credit:** RobbieIanMorrison — CC BY 4.0 — Wikimedia Commons. [Sumber](https://commons.wikimedia.org/wiki/File:1989_November_Prague_Velvet_Revolution_citizens_reading_news_taped_to_restaurant_window.jpg); lisensi [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+- **Selection basis:** filename/source metadata identifies `1989 November Prague Velvet Revolution citizens reading news taped to restaurant window.jpg` as relevant content media; no pixels were inspected.
+- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: EXT-001]` and continue drafting the prose.
+<!-- END MANAGED IMAGE PLAN -->
+
 ## Evidence packet
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
